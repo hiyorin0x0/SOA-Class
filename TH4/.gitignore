@@ -1,0 +1,4 @@
+instance/*.db
+instance/*.db-shm
+instance/*.db-wal
+__pycache__/
